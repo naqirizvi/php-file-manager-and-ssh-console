@@ -1,9 +1,12 @@
 # php-file-manager-and-ssh-console
-One Page File manager and SSH console
+##One Page File manager and SSH console
 
 
 You may use the code for File Manager, SSH Console and may utilize the one click commands like
-COMMANDS  -->  FUNCTION
+
+##COMMANDS  -->  FUNCTION
+
+```bash
 ls -lha   -->  List dir
 lsattr -va   -->  list file attributes on a Linux second extended file system
 netstat -an | grep -i listen   -->  show opened ports
@@ -49,3 +52,4 @@ locate '.fetchmailrc'   -->  locate .fetchmailrc files
 locate backup   -->  locate backup files
 locate dump   -->  locate dump files
 locate priv   -->  locate priv files
+```
